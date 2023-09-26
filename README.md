@@ -1,7 +1,8 @@
-# password-generator
+# Workday-Schedule
 
 ## Description
 A workday schedule to help organize your workday from 9am - 5pm with ability to store task.
+link to live site: https://ryanpersaud03.github.io/work-day-scheduler/
 ![Workday-Schedule-Project](./Assets/workday-screenshot.png)
 
 ## Languages
